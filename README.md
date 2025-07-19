@@ -49,6 +49,9 @@
   Feito com 💡 por <strong>Igor Prado</strong>
 </p>
 
+📫 Contato: [Email](mailto:testbytes.igor@gmail.com) · [LinkedIn](https://linkedin.com/in/igor-prado-6162162b4) · [Instagram](https://www.instagram.com/igor_kkjk) · [WhatsApp](https://wa.me/qr/ZCCXFJFV3GXYA1)
+![Visitors](https://komarev.com/ghpvc/?username=testbytes-igor&style=flat-square&color=blue)
+
 
 <!--
 **testbytes-Igor/testbytes-igor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
