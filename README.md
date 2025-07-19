@@ -37,11 +37,10 @@
 
 ---
 
-## 👾 Pac-Man comendo meus commits
+### 👾 Pac-Man comendo meus commits
 
-<p align="center">
-  <img src="https://github.com/testbytes-igor/testbytes-igor/raw/output/pacman-contribution-graph.svg" alt="Pac-Man no gráfico de contribuições">
-</p>
+![Pac-Man no gráfico de contribuições](https://testbytes-igor.github.io/PACMAN/pacman-contribution-graph.svg)
+
 
 ---
 
