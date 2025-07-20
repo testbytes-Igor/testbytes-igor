@@ -1,4 +1,5 @@
-<img src=![Descrição da imagem](./Images/cd503583-442b-463d-a81e-779c8d3f55ab.jpg) alt="Banner" style="width:100%; max-width:800px;" />
+![Banner](./Images/cd503583-442b-463d-a81e-779c8d3f55ab.jpg)
+
 
 <h1 align="center">👋 Olá, eu sou o Igor Prado</h1>
 
