@@ -35,13 +35,7 @@
 
 ## 📊 GitHub Stats
 
-
-
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=testbytes-igor&show_icons=true&theme=dracula&hide_title=true&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbytes-igor&layout=compact&theme=dracula&hide_border=true" />
-
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=testbytes-igor&show_icons=true&theme=dracula&hide_title=true&hide_border=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbytes-igor&layout=compact&theme=dracula&hide_border=true" />
 
 <p align="center">
   Feito com 💡 por <strong>Igor Prado</strong>
