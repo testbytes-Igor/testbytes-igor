@@ -35,14 +35,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbytes-igor&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
 
-### 👾 Pac-Man comendo meus commits
-
-![Pac-Man no gráfico de contribuições](https://testbytes-igor.github.io/PACMAN/pacman-contribution-graph.svg)
-
-
----
 
 <p align="center">
   Feito com 💡 por <strong>Igor Prado</strong>
@@ -53,7 +46,15 @@
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=testbytes-igor&show_icons=true&theme=dracula&hide_title=true&hide_border=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbytes-igor&layout=compact&theme=dracula&hide_border=true" />
+
+---
+
+### 👾 Pac-Man comendo meus commits
+
+![Pac-Man no gráfico de contribuições](https://testbytes-igor.github.io/PACMAN/pacman-contribution-graph.svg)
 <!--
+
+---
 **testbytes-Igor/testbytes-igor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
