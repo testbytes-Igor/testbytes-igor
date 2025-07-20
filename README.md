@@ -43,7 +43,6 @@
 
 
 
-
 <p align="center">
   Feito com 💡 por <strong>Igor Prado</strong>
 </p>
