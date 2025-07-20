@@ -1,5 +1,4 @@
-![Banner](./Images/cd503583-442b-463d-a81e-779c8d3f55ab.jpg)
-
+![Banner](https://raw.githubusercontent.com/testbytes-igor/Meu-Portifo-li-0/main/Meu_portifolio/Images/cd503583-442b-463d-a81e-779c8d3f55ab.jpg)
 
 <h1 align="center">👋 Olá, eu sou o Igor Prado</h1>
 
