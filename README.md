@@ -32,12 +32,6 @@
 
 
 
-<p align="center">
-  Feito com 💡 por <strong>Igor Prado</strong>
-</p>
-
-📫 Contato: [Email](mailto:testbytes.igor@gmail.com) · [LinkedIn](https://linkedin.com/in/igor-prado-6162162b4) · [Instagram](https://www.instagram.com/igor_kkjk) · [WhatsApp](https://wa.me/qr/ZCCXFJFV3GXYA1)
-![Visitors](https://komarev.com/ghpvc/?username=testbytes-igor&style=flat-square&color=blue)
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=testbytes-igor&show_icons=true&theme=dracula&hide_title=true&hide_border=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbytes-igor&layout=compact&theme=dracula&hide_border=true" />
@@ -47,6 +41,14 @@
 ### 👾 Pac-Man comendo meus commits
 
 ![Pac-Man no gráfico de contribuições](https://testbytes-igor.github.io/PACMAN/pacman-contribution-graph.svg)
+
+
+<p align="center">
+  Feito com 💡 por <strong>Igor Prado</strong>
+</p>
+
+📫 Contato: [Email](mailto:testbytes.igor@gmail.com) · [LinkedIn](https://linkedin.com/in/igor-prado-6162162b4) · [Instagram](https://www.instagram.com/igor_kkjk) · [WhatsApp](https://wa.me/qr/ZCCXFJFV3GXYA1)
+![Visitors](https://komarev.com/ghpvc/?username=testbytes-igor&style=flat-square&color=blue)
 <!--
 
 ---
