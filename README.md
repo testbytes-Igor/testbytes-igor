@@ -27,6 +27,11 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ---
+---
+
+### 👾 Pac-Man comendo meus commits
+
+![Pac-Man no gráfico de contribuições](https://testbytes-igor.github.io/PACMAN/pacman-contribution-graph.svg)
 
 ## 📊 GitHub Stats
 
@@ -36,11 +41,7 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=testbytes-igor&show_icons=true&theme=dracula&hide_title=true&hide_border=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testbytes-igor&layout=compact&theme=dracula&hide_border=true" />
 
----
 
-### 👾 Pac-Man comendo meus commits
-
-![Pac-Man no gráfico de contribuições](https://testbytes-igor.github.io/PACMAN/pacman-contribution-graph.svg)
 
 
 <p align="center">
